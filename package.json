@@ -1,0 +1,19 @@
+{
+  "name": "coding_exercise",
+  "version": "1.0.0",
+  "description": "Shuffles and Sorts boxes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumeet4u55/Coding_Exercise.git"
+  },
+  "author": "Sumeet Bagewadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumeet4u55/Coding_Exercise/issues"
+  },
+  "homepage": "https://github.com/sumeet4u55/Coding_Exercise#readme"
+}
